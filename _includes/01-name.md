@@ -1,2 +1,2 @@
-#Swajos Portfolio
-##Getting started on Github
+# Swajos Portfolio
+## Learning Github
